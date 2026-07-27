@@ -21,8 +21,6 @@ Platform / SRE Engineer (AI/LLM Infrastructure)
 - Anycast ingress
 - Monitoring (Grafana + Loki)
 
-https://github.com/Parkens/ters-team-website-for-cv
-
 ---
 
 ### Platform Infrastructure (Terraform + k3s)
@@ -33,8 +31,6 @@ https://github.com/Parkens/ters-team-website-for-cv
 - GPU (RunPod A100)
 - GitOps (в разработке)
 
-https://github.com/Parkens/ters-platform-for-cv
-
 ---
 
 ### Telegram AI Assistant
@@ -44,8 +40,6 @@ Production бот с LLM интеграцией
 - multi-provider LLM
 - Prometheus metrics
 - CI/CD (GitLab)
-
-https://github.com/Parkens/ters-bot-for-cv
 
 ---
 
